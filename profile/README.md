@@ -1,7 +1,9 @@
 <p align="center">
 <a href="https://bluely.software"><img height="35px" src="https://raw.githubusercontent.com/bluely-inc/.github/main/emotes/laptop.png"></a> <b>Bluely!</b>
 
-Welcome to the GitHub profile of Bluely Inc.! We are a company specializing in developing closed-source Discord bots. Our flagship bot, Bluely, is a multi-flex moderation bot that offers a range of features to help manage your Discord server.
+Welcome to the GitHub profile of Bluely Inc.
+
+We are a company specializing in developing closed-source Discord bots. Our flagship bot, Bluely, is a multi-flex moderation bot that offers a range of features to help manage your Discord server.
 
 # Features
 - Advanced moderation tools
