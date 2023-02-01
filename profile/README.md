@@ -8,6 +8,11 @@ We are a company specializing in developing closed-source Discord bots. Our flag
 - Advanced moderation tools
 - Automated moderation actions
 - And more!
+- OpenAI ChatGPT intergration
+
+# Aboutus
+- Advanced Developers
+- Activly being worked on
 
 # Usage
 Bluely is a closed-source bot, meaning it is only available for use, not modification. To get started with Bluely, simply follow these steps:
