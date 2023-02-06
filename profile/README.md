@@ -2,7 +2,10 @@
 
 Welcome to the GitHub profile of Bluely Inc.
 
-Bluely LLC is an innovative start-up specializing in Discord bots, proxies, and cyber-security solutions. Founded in 2021, the company is dedicated to providing its customers with the latest technology, products, and services to ensure their online security. Bluely LLC's mission is to empower individuals and organizations to protect themselves in an increasingly digital world. It offers a range of products and services to meet customers’ specific needs, from Discord bots and proxies to cyber-security solutions. The company also provides support and training to ensure that its customers are able to get the most out of their products and services. With its cutting-edge technology and dedicated team, Bluely LLC is committed to helping its customers stay safe online.
+Bluely LLC is an innovative start-up specializing in Discord bots, proxies, and cyber-security solutions. 
+Founded in 2021, the company is dedicated to providing its customers with the latest technology, products, and services to ensure their online security. Bluely LLC's mission is to empower individuals and organizations to protect themselves in an increasingly digital world. 
+
+It offers a range of products and services to meet customers’ specific needs, from Discord bots and proxies to cyber-security solutions. The company also provides support and training to ensure that its customers are able to get the most out of their products and services. With its cutting-edge technology and dedicated team, Bluely LLC is committed to helping its customers stay safe online, and Secure.
 
 
 # What is Bluely Proxy?
