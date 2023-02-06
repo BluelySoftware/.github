@@ -6,7 +6,7 @@ We are a company specializing in developing closed-source Discord bots. Our flag
 
 
 # What is Bluely Proxy?
-    Bluely Proxy is an online proxy service that allows users to easily access blocked websites and services without compromising their online security. With Bluely Proxy, you can browse the web anonymously, unblock websites, and protect your data from malicious threats. Whether you’re looking to bypass government censorship or simply want to protect your browsing activity, Bluely Proxy is the perfect solution. So what are you waiting for? Get started with Bluely Proxy today and stay safe online!
+  Bluely Proxy is an online proxy service that allows users to easily access blocked websites and services without compromising their online security. With Bluely Proxy, you can browse the web anonymously, unblock websites, and protect your data from malicious threats. Whether you’re looking to bypass government censorship or simply want to protect your browsing activity, Bluely Proxy is the perfect solution. So what are you waiting for? Get started with Bluely Proxy today and stay safe online!
 
 
 # Discord Bot information
