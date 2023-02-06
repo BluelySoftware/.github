@@ -26,6 +26,7 @@ Bluely Support is always online to assist you based on Whatever you need such as
 - Our website's [support page](support.bluely.software)
 - Email at support@bluely.software
 - Licenses and Agreement [Licence and Agreement](https://support.bluely.software/hc/en-us/articles/12671641069211-Licenses-and-Agreements-)
+
 We strive to resolve any issues as quickly as possible and ensure that your experience with Bluely is a positive one.
 
 
